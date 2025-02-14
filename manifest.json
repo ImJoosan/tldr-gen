@@ -1,9 +1,9 @@
 {
-	"id": "tdlr-gen",
+	"id": "tldr-gen",
 	"name": "TLDR Generator",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Generates a tdlr",
+	"description": "Generates a TLDR",
 	"author": "ImJoosan",
 	"authorUrl": "https://github.com/ImJoosan",
 	"isDesktopOnly": false
